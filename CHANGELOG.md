@@ -38,7 +38,7 @@ Initial public release.
 - `/link-skills` — sync project skills into profile.md and skills.md
 - `/profile-check` — audit career profile for completeness
 - `/lint` — health-check the whole system
-- `/status` — quick overview and next recommended action
+- `/snapshot` — quick overview and next recommended action
 
 **Guidelines** (`guidelines/`)
 - `gamedev-portfolio-rules.md` — portfolio writing rules for game development (source: gamedev.work/guidelines)
