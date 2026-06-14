@@ -92,7 +92,7 @@ When a command is invoked, read `commands/[command-name].md` for the full proced
 | `/link-skills [slug]` | `commands/link-skills.md` | Sync a project's skills into profile.md and skills.md |
 | `/lint` | `commands/lint.md` | Health-check the whole wiki |
 | `/profile-check` | `commands/profile-check.md` | Audit career profile for completeness and consistency |
-| `/status` | `commands/status.md` | Quick overview of current state and next action |
+| `/snapshot` | `commands/snapshot.md` | Quick overview of current state and next action |
 
 ---
 
