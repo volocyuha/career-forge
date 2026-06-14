@@ -94,7 +94,7 @@ Especially useful if you are junior or mid-level and trying to grow deliberately
 1. Fork or clone this repo
 2. Open the folder in your AI coding assistant (see tool compatibility below)
 3. Run `/setup` — the AI will ask for your CV or walk you through an interview
-4. Run `/status` to see what to do next
+4. Run `/snapshot` to see what to do next
 
 Or fill in the files manually — start with `career-profile/profile.md`, then `career-profile/current-role.md`.
 
@@ -118,7 +118,7 @@ Or fill in the files manually — start with `career-profile/profile.md`, then `
 | `/link-skills [slug]` | Sync a project's skills into `profile.md` and `skills.md` |
 | `/profile-check` | Audit career profile for completeness and internal consistency |
 | `/lint` | Health-check the whole system for broken links and missing content |
-| `/status` | Quick overview of what exists and what to do next |
+| `/snapshot` | Quick overview of what exists and what to do next |
 
 ---
 
