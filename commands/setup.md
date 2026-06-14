@@ -244,4 +244,4 @@ What is never removed: real content, `[TBD:]` markers, section headers, wikilink
 the Setup Status table, and the AI Context section in `career-profile/profile.md`.
 
 After cleanup, this file will contain only the Setup Status table as a permanent record.
-Run `/status` to see what to do next.
+Run `/snapshot` to see what to do next.
