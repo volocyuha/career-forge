@@ -46,7 +46,7 @@ If any module shows Pending, ask the user whether to skip that module or complet
      and a one-line note: "Setup completed. See WIKI_GUIDE.md for ongoing system usage."
 
 3. After all files are cleaned, confirm: "Setup scaffolding removed. Your knowledge base
-   is clean. Run /status to see the current state."
+   is clean. Run /snapshot to see the current state."
 
 What cleanup must never remove:
 - Real content provided by the user
