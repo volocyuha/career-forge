@@ -107,7 +107,7 @@ If you can't answer all four, the case study isn't ready to use in applications.
 | `/rebuild-skills` | You want to regenerate `career-profile/skills.md` from project pages |
 | `/link-skills [slug]` | You want to sync a project's skills into `career-profile/profile.md` and `career-profile/skills.md` |
 | `/lint` | You want a health check of the whole wiki |
-| `/status` | You want a quick overview of what exists and what to do next |
+| `/snapshot` | You want a quick overview of what exists and what to do next |
 
 ---
 
@@ -124,7 +124,7 @@ Or fill modules manually in this order:
 5. Run `/strategy` — get your first career strategy
 6. Add your first project: fill `new-project.md`, run `/add-project`
 7. Run `/rebuild-skills` — generate `career-profile/skills.md`
-8. Run `/status` — see the full picture
+8. Run `/snapshot` — see the full picture
 
 ---
 
