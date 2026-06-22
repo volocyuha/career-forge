@@ -47,11 +47,11 @@ Especially useful if you are junior or mid-level and trying to grow deliberately
 
 ---
 
-## Installation
+## Getting Started
 
 No coding required. No configuration files to edit manually. The AI handles the rest.
 
-**Step 1 — Get the files**
+**Step 1 - Get the files**
 
 Click the green **Code** button on this page → **Download ZIP** → unzip it somewhere on your computer.
 
@@ -61,21 +61,27 @@ Or if you use Git:
 git clone https://github.com/volocyuha/career-forge.git
 ```
 
-**Step 2 — Open in your AI tool**
+**Step 2 - Open in your AI tool**
 
 Open the `career-forge` folder in your AI coding assistant:
 
-- **Claude Code** — run `claude` in the terminal inside the folder, or open it from the Claude Code interface. Rename `AGENTS.md` to `CLAUDE.md` first.
-- **OpenAI Codex** — open the folder as a project. `AGENTS.md` is natively supported.
-- **Cursor** — open the folder as a project. Add `AGENTS.md` to `.cursor/rules`.
-- **Windsurf** — open the folder. Copy the contents of `AGENTS.md` into `.windsurfrules`.
-- **Other tools** — open the folder and paste the contents of `AGENTS.md` as your system prompt.
+- **Claude Code** - run `claude` in the terminal inside the folder, or open it from the Claude Code interface. Rename `AGENTS.md` to `CLAUDE.md` first.
+- **OpenAI Codex** - open the folder as a project. `AGENTS.md` is natively supported.
+- **Cursor** - open the folder as a project. Add `AGENTS.md` to `.cursor/rules`.
+- **Windsurf** - open the folder. Copy the contents of `AGENTS.md` into `.windsurfrules`.
+- **Other tools** - open the folder and paste the contents of `AGENTS.md` as your system prompt.
 
-**Step 3 — Run setup**
+**Step 3 - Run setup**
 
 Type `/setup` in the chat with your AI assistant.
 It will ask for your CV or walk you through a short interview.
 The system builds your knowledge base from your answers.
+
+**Step 4 - Check your state**
+
+Type `/snapshot` to see what's been filled in and what to do next.
+
+Or fill in the files manually - start with `career-profile/profile.md`, then `career-profile/current-role.md`.
 
 ---
 
@@ -118,17 +124,6 @@ The system builds your knowledge base from your answers.
 └── outputs/
     └── [generated CVs, cover letters, portfolio cases, interview answers]
 ```
-
----
-
-## Quick Start
-
-1. Fork or clone this repo
-2. Open the folder in your AI coding assistant (see tool compatibility below)
-3. Run `/setup` — the AI will ask for your CV or walk you through an interview
-4. Run `/snapshot` to see what to do next
-
-Or fill in the files manually — start with `career-profile/profile.md`, then `career-profile/current-role.md`.
 
 ---
 
